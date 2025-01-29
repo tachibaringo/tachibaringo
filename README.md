@@ -1,5 +1,5 @@
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning C++.
+- 👀 I’m interested in python.
+- 🌱 I’m currently learning python.
 
 <!---
 tachibaringo/tachibaringo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
